@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightMapper.Core", "LightMapper.Core\LightMapper.Core.csproj", "{E06CE1ED-142E-4F4A-9F21-4BBD150397AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigthMapper.Core.Tests", "LigthMapper.Core.Tests\LigthMapper.Core.Tests.csproj", "{BD9F7067-4D74-4CC2-B8AC-76726E05965B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06CE1ED-142E-4F4A-9F21-4BBD150397AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06CE1ED-142E-4F4A-9F21-4BBD150397AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06CE1ED-142E-4F4A-9F21-4BBD150397AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06CE1ED-142E-4F4A-9F21-4BBD150397AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9F7067-4D74-4CC2-B8AC-76726E05965B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9F7067-4D74-4CC2-B8AC-76726E05965B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9F7067-4D74-4CC2-B8AC-76726E05965B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9F7067-4D74-4CC2-B8AC-76726E05965B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

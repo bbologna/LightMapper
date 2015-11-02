@@ -1,0 +1,5 @@
+D:\Github\LightMapper\LightMapper\LightMapper.Core\obj\Debug\LightMapper.Core.csprojResolveAssemblyReference.cache
+D:\Github\LightMapper\LightMapper\LightMapper.Core\bin\Debug\LightMapper.Core.dll
+D:\Github\LightMapper\LightMapper\LightMapper.Core\bin\Debug\LightMapper.Core.pdb
+D:\Github\LightMapper\LightMapper\LightMapper.Core\obj\Debug\LightMapper.Core.dll
+D:\Github\LightMapper\LightMapper\LightMapper.Core\obj\Debug\LightMapper.Core.pdb
